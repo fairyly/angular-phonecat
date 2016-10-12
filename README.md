@@ -165,13 +165,15 @@ git diff step-?..step-?
   - CSS transition animations.
   - CSS keyframe animations.
   - JavaScript-based animations.
-
+>先把项目克隆本地：git clone https://github.com/angular/angular-phonecat.git
+>然后 cd angular-phonecat
+>接下来安装依赖
 
 ## Development with `angular-phonecat`
 
 The following docs describe how you can test and develop this application further.
 
-### Installing Dependencies
+### Installing Dependencies安装依赖
 
 The application relies upon various Node.js tools, such as [Bower][bower], [Karma][karma] and
 [Protractor][protractor]. You can install these by running:
@@ -186,8 +188,8 @@ tutorial.
 Most of the scripts described below will run this automatically but it doesn't do any harm to run
 it whenever you like.
 
-### Running the Application during Development
-
+### Running the Application during Development 运行项目
+>
 - Run `npm start`.
 - Navigate your browser to [http://localhost:8000/](http://localhost:8000/) to see the application 
 - running.
