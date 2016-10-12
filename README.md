@@ -165,9 +165,11 @@ git diff step-?..step-?
   - CSS transition animations.
   - CSS keyframe animations.
   - JavaScript-based animations.
->先把项目克隆本地：git clone https://github.com/angular/angular-phonecat.git
->然后 cd angular-phonecat
->接下来安装依赖
+  
+> 
+ 先把项目克隆本地：git clone https://github.com/angular/angular-phonecat.git
+ 然后 cd angular-phonecat
+ 接下来安装依赖
 
 ## Development with `angular-phonecat`
 
